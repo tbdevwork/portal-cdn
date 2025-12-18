@@ -1769,10 +1769,10 @@ canvas {
   padding: var(--container-padding, 36px);
   width: 100%;
 }
-.modal .modal-content.formstack {
+.modal .modal-content.formstack-modal {
   height: 100%;
 }
-.modal .modal-content.formstack iframe {
+.modal .modal-content.formstack-modal iframe {
   border: none;
   height: 100%;
 }
