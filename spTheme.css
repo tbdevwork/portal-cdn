@@ -2492,6 +2492,9 @@ canvas {
 .table-cell.cell-amount {
   width: 150px;
 }
+.table-cell.cell-name {
+  width: 300px;
+}
 
 @media (max-width: 767px) {
   .table-header {
