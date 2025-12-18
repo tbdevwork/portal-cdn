@@ -2357,6 +2357,8 @@ canvas {
       -ms-flex-align: start;
           align-items: flex-start;
   gap: 8px;
+  overflow-x: auto;
+  width: 100%;
 }
 
 .table-header {
@@ -3388,7 +3390,7 @@ canvas {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  width: 100%;
+  min-width: 0;
 }
 .page .page-content .grid-container aside {
   display: -webkit-box;
