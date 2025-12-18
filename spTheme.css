@@ -4069,6 +4069,7 @@ canvas {
 .page-home .home-card {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  min-width: 50%;
 }
 .page-home .home-card:hover {
   background-color: rgb(253, 252, 254);
