@@ -1772,6 +1772,10 @@ canvas {
 .modal .modal-content.formstack {
   height: 100%;
 }
+.modal .modal-content.formstack iframe {
+  border: none;
+  height: 100%;
+}
 .modal .modal-content section {
   display: -webkit-box;
   display: -ms-flexbox;
