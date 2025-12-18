@@ -3028,6 +3028,9 @@ canvas {
       -ms-flex-direction: column;
           flex-direction: column;
   gap: 4px;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
 }
 .trip-list .trip-item .trip-detail.trip-stops {
   -webkit-box-flex: 1;
