@@ -491,6 +491,22 @@ footer {
   font-size: 150%;
 }
 
+.icon-xs .icon {
+  font-size: 65%;
+}
+
+.icon-sm .icon {
+  font-size: 75%;
+}
+
+.icon-lg .icon {
+  font-size: 125%;
+}
+
+.icon-xl .icon {
+  font-size: 150%;
+}
+
 .btn .icon, .radio-btn-group label .icon {
   display: -webkit-box;
   display: -ms-flexbox;
