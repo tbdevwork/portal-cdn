@@ -4354,6 +4354,18 @@ canvas {
     padding-bottom: 60px;
   }
 }
+@media (min-width: 768px) and (max-width: 1023px) {
+  .page-registration aside,
+  .page-login aside {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  .page-registration aside,
+  .page-login aside {
+    display: none;
+  }
+}
 
 .account-page .my-account-wrapper {
   display: -webkit-box;
