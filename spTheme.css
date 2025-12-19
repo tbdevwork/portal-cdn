@@ -1169,12 +1169,6 @@ footer {
   color: #A81E26;
 }
 
-.slds-input-has-icon .slds-input,
-.slds-input-has-icon .slds-input_faux {
-  padding-left: 30px !important;
-  padding-right: 30px !important;
-}
-
 .slds-input__icon-group_right .slds-input__icon--right,
 .slds-input__icon-group_right .slds-input__icon_right {
   right: 1rem;
