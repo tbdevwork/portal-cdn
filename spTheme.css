@@ -2475,6 +2475,7 @@ canvas {
 }
 .table-cell.cell-cost {
   width: 150px;
+  text-align: right;
 }
 .table-cell.cell-date {
   width: 150px;
