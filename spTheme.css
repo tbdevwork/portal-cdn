@@ -2476,9 +2476,13 @@ canvas {
 .table-cell.cell-cost {
   width: 150px;
   text-align: right;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+}
+@media (min-width: 1024px) {
+  .table-cell.cell-cost {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+  }
 }
 .table-cell.cell-date {
   width: 150px;
@@ -2492,9 +2496,13 @@ canvas {
 .table-cell.cell-amount {
   width: 150px;
   text-align: right;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+}
+@media (min-width: 1024px) {
+  .table-cell.cell-amount {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+  }
 }
 .table-cell.cell-name {
   width: 250px;
@@ -2627,9 +2635,13 @@ canvas {
 .table-cell.cell-amount-billing {
   width: 150px;
   text-align: right;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+}
+@media (min-width: 1024px) {
+  .table-cell.cell-amount-billing {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+  }
 }
 
 .amount-positive {
@@ -2872,9 +2884,6 @@ canvas {
   -ms-flex-item-align: stretch;
       align-self: stretch;
   text-align: right;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
   color: rgb(128, 128, 128);
   font-size: 0.9375rem;
   font-weight: 400;
