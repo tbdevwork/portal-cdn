@@ -2487,6 +2487,7 @@ canvas {
 }
 .table-cell.cell-amount {
   width: 150px;
+  text-align: right;
 }
 .table-cell.cell-name {
   width: 250px;
@@ -3806,6 +3807,16 @@ canvas {
       -ms-flex: 1;
           flex: 1;
 }
+.program-card .program-content .program-details .program-description {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 8px;
+}
 .program-card .program-content .program-details p {
   width: 100%;
 }
@@ -4352,6 +4363,12 @@ canvas {
   .page-home .page-login .main-content.home-card {
     padding: 24px;
     padding-bottom: 60px;
+  }
+}
+@media (max-width: 1399px) {
+  .page-registration aside,
+  .page-login aside {
+    display: none;
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
