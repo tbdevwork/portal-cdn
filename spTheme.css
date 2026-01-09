@@ -1333,6 +1333,10 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   padding-bottom: 0px;
 }
 
+.description-with-tooltip .slds-form-element__icon {
+  padding-top: 0;
+}
+
 .tag {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
