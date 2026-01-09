@@ -880,14 +880,16 @@ footer {
   border-radius: 8px;
   width: 100%;
 }
-.form-field.field-xs {
-  max-width: 200px;
-}
-.form-field.field-sm {
-  max-width: 300px;
-}
-.form-field.field-md {
-  max-width: 400px;
+@media (min-width: 768px) {
+  .form-field.field-xs {
+    max-width: 200px;
+  }
+  .form-field.field-sm {
+    max-width: 300px;
+  }
+  .form-field.field-md {
+    max-width: 400px;
+  }
 }
 .form-field .form-label {
   display: -webkit-box;
