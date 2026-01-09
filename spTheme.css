@@ -232,7 +232,7 @@ button, input, select, textarea {
 
 .color-warning,
 .color-red {
-  color: rgb(221, 127, 51);
+  color: rgb(153, 68, 0);
 }
 
 .color-error {
@@ -244,7 +244,7 @@ button, input, select, textarea {
 }
 
 .color-grey {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 
 .color-purple,
@@ -257,7 +257,7 @@ button, input, select, textarea {
 }
 
 .color-orange {
-  color: rgb(221, 127, 51);
+  color: rgb(153, 68, 0);
 }
 
 .container {
@@ -326,7 +326,7 @@ h4 {
   font-size: 0.8203125rem;
   font-weight: 500;
   text-transform: uppercase;
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   margin-bottom: 0;
 }
 
@@ -345,7 +345,7 @@ table {
 }
 
 label {
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
 }
 
 input, select, textarea {
@@ -353,11 +353,11 @@ input, select, textarea {
 }
 
 footer {
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
 }
 
 .text-xxs {
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
 }
 
 .text-xs {
@@ -433,7 +433,7 @@ footer {
 }
 
 .text-orange {
-  color: rgb(221, 127, 51);
+  color: rgb(153, 68, 0);
 }
 
 .text-underline {
@@ -660,7 +660,7 @@ footer {
   color: rgb(0, 0, 0);
 }
 .banner.banner-light .icon {
-  color: rgb(183, 166, 149);
+  color: rgb(128, 100, 80);
 }
 .banner.banner-alert, .banner.banner-error {
   background-color: rgb(250, 224, 227);
@@ -718,7 +718,7 @@ footer {
 }
 .btn.btn-xs, .radio-btn-group label.btn-xs {
   padding: 4px 8px;
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
 }
 .btn.btn-lg, .radio-btn-group label.btn-lg {
   padding: 8px 18px;
@@ -912,7 +912,7 @@ footer {
   font-weight: 700;
 }
 .form-field .form-label .form-info-icon {
-  color: rgb(140, 112, 175);
+  color: rgb(102, 64, 153);
 }
 .form-field .form-input:not(.unstyled) {
   padding: 12px 8px;
@@ -964,19 +964,19 @@ footer {
   width: 100%;
 }
 .form-field .form-input:not(.unstyled) .input-content input::-webkit-input-placeholder, .form-field .form-input:not(.unstyled) .input-content select::-webkit-input-placeholder, .form-field .form-input:not(.unstyled) .input-content textarea::-webkit-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .form-field .form-input:not(.unstyled) .input-content input::-moz-placeholder, .form-field .form-input:not(.unstyled) .input-content select::-moz-placeholder, .form-field .form-input:not(.unstyled) .input-content textarea::-moz-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .form-field .form-input:not(.unstyled) .input-content input:-ms-input-placeholder, .form-field .form-input:not(.unstyled) .input-content select:-ms-input-placeholder, .form-field .form-input:not(.unstyled) .input-content textarea:-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .form-field .form-input:not(.unstyled) .input-content input::-ms-input-placeholder, .form-field .form-input:not(.unstyled) .input-content select::-ms-input-placeholder, .form-field .form-input:not(.unstyled) .input-content textarea::-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .form-field .form-input:not(.unstyled) .input-content input::placeholder, .form-field .form-input:not(.unstyled) .input-content select::placeholder, .form-field .form-input:not(.unstyled) .input-content textarea::placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .form-field .form-input:not(.unstyled) .input-content input:focus, .form-field .form-input:not(.unstyled) .input-content select:focus, .form-field .form-input:not(.unstyled) .input-content textarea:focus {
   outline: none;
@@ -1092,7 +1092,7 @@ footer {
   width: 1.125rem;
   height: 1.125rem;
   background-color: rgb(255, 255, 255);
-  border: 1px solid rgb(128, 128, 128);
+  border: 1px solid rgb(94, 94, 94);
   border-radius: 0.1875rem;
   cursor: pointer;
   margin-right: 0.5rem;
@@ -1177,20 +1177,20 @@ footer {
   background: rgb(255, 255, 255);
 }
 .slds-input::-webkit-input-placeholder, .slds-input_faux::-webkit-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-input::-moz-placeholder, .slds-input_faux::-moz-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-input:-ms-input-placeholder, .slds-input_faux:-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-input::-ms-input-placeholder, .slds-input_faux::-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-input::placeholder,
 .slds-input_faux::placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-input:focus,
 .slds-input_faux:focus {
@@ -1229,19 +1229,19 @@ footer {
   background: rgb(255, 255, 255);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input::-webkit-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input::-moz-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input:-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input::-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input::placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-combobox_container .slds-combobox .slds-combobox__form-element .slds-input:focus {
   outline: none;
@@ -1282,19 +1282,19 @@ footer {
   font-weight: 400;
 }
 .slds-textarea::-webkit-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-textarea::-moz-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-textarea:-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-textarea::-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .slds-textarea::placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 
 .slds-form-element__static {
@@ -1310,7 +1310,7 @@ footer {
 }
 
 .slds-icon.slds-icon-text-default {
-  fill: rgb(140, 112, 175);
+  fill: rgb(102, 64, 153);
 }
 .slds-icon.slds-icon-text-error {
   fill: #A81E26;
@@ -1357,7 +1357,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
 }
 .tag.tag-outline-light {
   background-color: rgb(255, 255, 255);
-  color: rgb(140, 112, 175);
+  color: rgb(102, 64, 153);
   border: 2px solid rgb(204, 191, 219);
 }
 .tag.tag-purple-light {
@@ -1403,7 +1403,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   gap: 4px;
 }
 .progress-bar .bar-text {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-size: 0.8203125rem;
 }
 .progress-bar .bar-container {
@@ -1492,11 +1492,11 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   width: 100%;
 }
 .progress .progress-steps .progress-step .step-content .step-icon {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .progress .progress-steps .progress-step .step-content .step-name {
   font-size: 0.9375rem;
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   text-align: left;
   max-width: 100%;
 }
@@ -1510,7 +1510,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   color: #70A642;
 }
 .progress .progress-steps .progress-step.active::before {
-  background-color: rgb(221, 127, 51);
+  background-color: rgb(153, 68, 0);
 }
 .progress .progress-steps .progress-step.active .step-content .step-icon {
   color: rgb(0, 0, 0);
@@ -1523,11 +1523,11 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   background-color: rgb(229, 229, 229);
 }
 .progress .progress-steps .progress-step.upcoming .step-content .step-icon {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   opacity: 0.5;
 }
 .progress .progress-steps .progress-step.upcoming .step-content .step-name {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   opacity: 0.5;
 }
 @media (max-width: 767px) {
@@ -1608,8 +1608,8 @@ canvas {
   line-height: 1.3;
 }
 .counselor-info .counselor-info-container .counselor-details .counselor-role {
-  font-size: 0.703125rem;
-  color: rgb(128, 128, 128);
+  font-size: 0.8203125rem;
+  color: rgb(94, 94, 94);
   text-transform: uppercase;
 }
 .counselor-info .counselor-info-container .counselor-details .counselor-email {
@@ -1800,7 +1800,7 @@ canvas {
   border: none;
   padding: 4px;
   cursor: pointer;
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1959,7 +1959,7 @@ canvas {
   gap: 4px;
 }
 .field-summary .field-label {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-weight: 500;
 }
 .field-summary .field-value {
@@ -1968,7 +1968,7 @@ canvas {
 }
 .field-summary .field-value:empty::after, .field-summary .field-value:has(> span:empty)::after {
   content: "—";
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 
 .radio-btn-group {
@@ -2272,7 +2272,7 @@ canvas {
 .document-info .document-icon {
   width: 16px;
   height: 16px;
-  color: rgb(140, 112, 175);
+  color: rgb(102, 64, 153);
   -ms-flex-negative: 0;
       flex-shrink: 0;
 }
@@ -2325,7 +2325,7 @@ canvas {
 }
 .document-actions .btn span, .document-actions .radio-btn-group label span, .radio-btn-group .document-actions label span {
   color: rgb(51, 0, 114);
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 1.33;
@@ -2421,7 +2421,7 @@ canvas {
   padding: 4px 8px;
   background: rgb(51, 0, 114);
   color: rgb(255, 255, 255);
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 4px;
@@ -2529,7 +2529,7 @@ canvas {
   .table-cell::before {
     content: attr(data-label);
     font-weight: 700;
-    font-size: 0.703125rem;
+    font-size: 0.8203125rem;
     color: rgb(64, 64, 64);
     display: block;
     margin-bottom: 4px;
@@ -2698,7 +2698,7 @@ canvas {
 .financial-aid-info .aid-section .aid-description {
   -ms-flex-item-align: stretch;
       align-self: stretch;
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-size: 0.9375rem;
   font-weight: 400;
 }
@@ -2884,7 +2884,7 @@ canvas {
   -ms-flex-item-align: stretch;
       align-self: stretch;
   text-align: right;
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-size: 0.9375rem;
   font-weight: 400;
   line-height: 13px;
@@ -2893,19 +2893,19 @@ canvas {
   background: transparent;
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input::-webkit-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input::-moz-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input:-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input::-ms-input-placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input::placeholder {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .payment-section .payment-form .payment-controls .payment-input-group .payment-amount-input .form-input .input-value input:focus {
   color: rgb(0, 0, 0);
@@ -3032,7 +3032,7 @@ canvas {
 }
 
 .detail-label {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 
 .trip-list {
@@ -3381,6 +3381,11 @@ canvas {
   gap: var(--container-gap, 24px);
   padding: var(--container-padding, 36px);
 }
+@media (max-width: 767px) {
+  .page .page-content {
+    padding: 0;
+  }
+}
 .page .page-content .grid-container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3447,10 +3452,14 @@ canvas {
   }
 }
 .page .page-content .grid-container aside .aside-breadcrumbs {
-  padding: 16px;
-  width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 16px;
+  width: 100%;
   display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -3540,6 +3549,11 @@ canvas {
   display: -ms-flexbox;
   display: flex;
 }
+@media (max-width: 1023px) {
+  .page .page-content .grid-container section .section-title .section-action {
+    width: 100%;
+  }
+}
 .page .page-content .grid-container section .section-content {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3593,6 +3607,7 @@ canvas {
           flex-direction: column;
   gap: 4px;
   font-size: 1.171875rem;
+  text-align: right;
 }
 #program .program-info .program-title .program-name, .program-page .program-info .program-title .program-name {
   font-size: 1.171875rem;
@@ -3742,7 +3757,7 @@ canvas {
   padding: 8px;
 }
 #program .program-info .program-nav ul li .program-subnav .subnav-category .category-text, .program-page .program-info .program-nav ul li .program-subnav .subnav-category .category-text {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-size: 0.8203125rem;
   text-transform: uppercase;
 }
@@ -3971,7 +3986,7 @@ canvas {
   }
 }
 .subnav ul li a:hover {
-  background-color: rgb(140, 112, 175);
+  background-color: rgb(102, 64, 153);
 }
 .subnav ul li a.active {
   border-left-color: rgb(241, 196, 0);
@@ -4062,7 +4077,7 @@ canvas {
 .sidebar-header .sidebar-footer {
   padding: 1rem;
   margin-top: auto;
-  font-size: 0.703125rem;
+  font-size: 0.8203125rem;
   position: sticky;
   bottom: 0;
   background-color: rgb(51, 0, 114);
@@ -4339,7 +4354,7 @@ canvas {
   color: #A81E26;
 }
 .app-items .app-item .item-content .item-date.due {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
 }
 .app-items .app-item .item-action {
   display: -webkit-box;
@@ -4458,7 +4473,7 @@ canvas {
   }
 }
 .account-page .info-item .item-label {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   width: 100%;
 }
 .account-page .info-item .item-value {
@@ -4477,7 +4492,7 @@ canvas {
   margin-right: 4px;
 }
 .account-page .info-item .item-note {
-  color: rgb(128, 128, 128);
+  color: rgb(94, 94, 94);
   font-size: 0.8203125rem;
   width: 100%;
 }
