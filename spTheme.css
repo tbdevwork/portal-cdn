@@ -227,12 +227,12 @@ button, input, select, textarea {
 }
 
 .color-success {
-  color: #70A642;
+  color: rgb(112, 166, 66);
 }
 
 .color-warning,
 .color-red {
-  color: rgb(153, 68, 0);
+  color: rgb(221, 127, 51);
 }
 
 .color-error {
@@ -257,7 +257,7 @@ button, input, select, textarea {
 }
 
 .color-orange {
-  color: rgb(153, 68, 0);
+  color: rgb(221, 127, 51);
 }
 
 .container {
@@ -433,7 +433,7 @@ footer {
 }
 
 .text-orange {
-  color: rgb(153, 68, 0);
+  color: rgb(221, 127, 51);
 }
 
 .text-underline {
@@ -1025,7 +1025,7 @@ footer {
   border: 2px solid #A81E26;
 }
 .form-field.is-valid .form-input:not(.form-input--unstyled) {
-  border: 1px solid #70A642;
+  border: 1px solid rgb(112, 166, 66);
 }
 
 .form-group {
@@ -1321,7 +1321,7 @@ footer {
   fill: rgb(241, 196, 0);
 }
 .slds-icon.slds-icon-text-success {
-  fill: #70A642;
+  fill: rgb(112, 166, 66);
 }
 
 .slds-truncate {
@@ -1379,7 +1379,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   color: rgb(255, 255, 255);
 }
 .tag.tag-green {
-  background-color: #70A642;
+  background-color: rgb(112, 166, 66);
   color: rgb(255, 255, 255);
 }
 
@@ -1429,7 +1429,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   position: absolute;
   content: "";
   height: 100%;
-  background-color: #70A642;
+  background-color: rgb(112, 166, 66);
   border-radius: 2px;
 }
 
@@ -1507,16 +1507,16 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   max-width: 100%;
 }
 .progress .progress-steps .progress-step.completed::before {
-  background-color: #70A642;
+  background-color: rgb(112, 166, 66);
 }
 .progress .progress-steps .progress-step.completed .step-content .step-icon {
-  color: #70A642;
+  color: rgb(112, 166, 66);
 }
 .progress .progress-steps .progress-step.completed .step-content .step-name {
-  color: #70A642;
+  color: rgb(112, 166, 66);
 }
 .progress .progress-steps .progress-step.active::before {
-  background-color: rgb(153, 68, 0);
+  background-color: rgb(221, 127, 51);
 }
 .progress .progress-steps .progress-step.active .step-content .step-icon {
   color: rgb(0, 0, 0);
@@ -2651,7 +2651,7 @@ canvas {
 }
 
 .amount-positive {
-  color: #70A642;
+  color: rgb(112, 166, 66);
 }
 
 .amount-negative {
@@ -4354,7 +4354,7 @@ canvas {
   font-size: 0.8203125rem;
 }
 .app-items .app-item .item-content .item-date.completed {
-  color: #70A642;
+  color: rgb(112, 166, 66);
 }
 .app-items .app-item .item-content .item-date.overdue {
   color: #A81E26;
