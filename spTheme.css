@@ -227,12 +227,12 @@ button, input, select, textarea {
 }
 
 .color-success {
-  color: rgb(112, 166, 66);
+  color: rgb(52, 100, 12);
 }
 
 .color-warning,
 .color-red {
-  color: rgb(221, 127, 51);
+  color: rgb(153, 68, 0);
 }
 
 .color-error {
@@ -257,7 +257,7 @@ button, input, select, textarea {
 }
 
 .color-orange {
-  color: rgb(221, 127, 51);
+  color: rgb(153, 68, 0);
 }
 
 .container {
@@ -1025,7 +1025,7 @@ footer {
   border: 2px solid #A81E26;
 }
 .form-field.is-valid .form-input:not(.form-input--unstyled) {
-  border: 1px solid rgb(112, 166, 66);
+  border: 1px solid rgb(52, 100, 12);
 }
 
 .form-group {
@@ -1321,7 +1321,7 @@ footer {
   fill: rgb(241, 196, 0);
 }
 .slds-icon.slds-icon-text-success {
-  fill: rgb(112, 166, 66);
+  fill: rgb(52, 100, 12);
 }
 
 .slds-truncate {
@@ -1379,7 +1379,7 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   color: rgb(255, 255, 255);
 }
 .tag.tag-green {
-  background-color: rgb(112, 166, 66);
+  background-color: rgb(52, 100, 12);
   color: rgb(255, 255, 255);
 }
 
@@ -1510,10 +1510,10 @@ lightning-input-rich-text .slds-combobox__input.slds-input_faux {
   background-color: rgb(112, 166, 66);
 }
 .progress .progress-steps .progress-step.completed .step-content .step-icon {
-  color: rgb(112, 166, 66);
+  color: rgb(52, 100, 12);
 }
 .progress .progress-steps .progress-step.completed .step-content .step-name {
-  color: rgb(112, 166, 66);
+  color: rgb(52, 100, 12);
 }
 .progress .progress-steps .progress-step.active::before {
   background-color: rgb(221, 127, 51);
