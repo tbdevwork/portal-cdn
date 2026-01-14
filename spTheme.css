@@ -4312,6 +4312,9 @@ canvas {
             align-items: flex-start;
   }
 }
+.app-items .app-item:hover {
+  cursor: pointer;
+}
 .app-items .app-item .item-content {
   -webkit-box-flex: 1;
       -ms-flex: 1;
