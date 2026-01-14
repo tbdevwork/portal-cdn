@@ -792,7 +792,7 @@ footer {
   color: rgb(51, 0, 114);
 }
 .btn.btn-light:hover, .radio-btn-group label:hover, .btn-toggle-group .btn.btn-toggle:hover {
-  background-color: rgb(230, 224, 238);
+  border-color: rgb(230, 224, 238);
 }
 .btn.btn-tan, .radio-btn-group label.btn-tan {
   background-color: rgb(227, 221, 204);
