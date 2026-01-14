@@ -784,8 +784,8 @@ footer {
   background-color: rgb(253, 252, 254);
 }
 .btn.btn-light, .radio-btn-group label, .btn-toggle-group .btn.btn-toggle, .btn-toggle-group .radio-btn-group label, .radio-btn-group .btn-toggle-group label {
-  background-color: rgb(230, 224, 238);
-  border-color: rgb(230, 224, 238);
+  background-color: rgb(240, 236, 247);
+  border-color: rgb(240, 236, 247);
   color: rgb(51, 0, 114);
 }
 .btn.btn-light .icon, .radio-btn-group label .icon, .btn-toggle-group .btn.btn-toggle .icon {
