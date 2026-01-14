@@ -2255,10 +2255,10 @@ canvas {
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
-.document-item:hover, .document-item.highlighted {
+.document-item.highlighted {
   background: rgb(230, 224, 238);
 }
-.document-item:hover .document-actions, .document-item.highlighted .document-actions {
+.document-item.highlighted .document-actions {
   opacity: 1;
   visibility: visible;
 }
@@ -3664,7 +3664,7 @@ canvas {
   transition: transform 0.2s;
   transition: transform 0.2s, -webkit-transform 0.2s;
 }
-#program .program-info .program-nav .program-nav-toggle:hover, #program .program-info .program-nav .program-nav-toggle.is-active, .program-page .program-info .program-nav .program-nav-toggle:hover, .program-page .program-info .program-nav .program-nav-toggle.is-active {
+#program .program-info .program-nav .program-nav-toggle.is-active, .program-page .program-info .program-nav .program-nav-toggle.is-active {
   background-color: rgb(230, 224, 238);
 }
 #program .program-info .program-nav .program-nav-toggle.is-active .icon, .program-page .program-info .program-nav .program-nav-toggle.is-active .icon {
@@ -3703,9 +3703,6 @@ canvas {
   text-decoration: none;
   -webkit-transition: background-color 0.2s;
   transition: background-color 0.2s;
-}
-#program .program-info .program-nav ul li a.nav-item:hover, .program-page .program-info .program-nav ul li a.nav-item:hover {
-  background-color: rgb(247, 245, 249);
 }
 #program .program-info .program-nav ul li a.nav-item .nav-content, .program-page .program-info .program-nav ul li a.nav-item .nav-content {
   -webkit-box-flex: 1;
@@ -4314,13 +4311,6 @@ canvas {
         -ms-flex-align: start;
             align-items: flex-start;
   }
-}
-.app-items .app-item:hover {
-  background-color: rgb(230, 224, 238);
-  cursor: pointer;
-}
-.app-items .app-item.priority:hover {
-  background-color: rgb(230, 224, 238);
 }
 .app-items .app-item .item-content {
   -webkit-box-flex: 1;
