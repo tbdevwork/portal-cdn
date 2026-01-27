@@ -35,6 +35,10 @@ button, input, select, textarea {
   background: none;
 }
 
+.test-class-css {
+  color: violet;
+}
+
 :root {
   --container-padding: 36px;
   --container-gap: 36px;
