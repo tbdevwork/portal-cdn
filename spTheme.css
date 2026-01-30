@@ -2306,7 +2306,6 @@ canvas {
       -ms-flex-align: center;
           align-items: center;
   gap: 12px;
-  opacity: 0;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
