@@ -325,6 +325,9 @@ h3 {
   color: rgb(51, 0, 114);
   margin-bottom: 0;
 }
+h3 a {
+  text-decoration: underline;
+}
 
 h4 {
   font-size: 0.8203125rem;
